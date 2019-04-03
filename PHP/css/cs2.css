@@ -1,0 +1,52 @@
+.header-nav{
+margin-bottom:20px;
+}
+.policy{
+text-align: center;
+}
+.policy h2{
+width: 100%;
+text-align: center;
+}
+
+.policy-body h4{
+color:black;
+text-align: justify;
+}
+
+
+.policy-tab{
+background-color: #fff;
+box-shadow:0 0 10px #aaa;
+background-image: url(../images/otab_bg.png);
+background-size: 100%;
+}
+
+.policy-main,.options-row{
+padding-left:15px;
+padding-right:15px;
+}
+
+.options-tab{
+margin-top:13px;
+margin-bottom:13px;
+padding-left:15px;
+padding-right:15px;
+}
+
+.otab{
+background-color: #fff;
+box-shadow:0 0 10px #aaa;
+margin:auto;
+padding:20px;
+cursor: pointer;
+background-image:url('../images/otab_bg.png');
+background-size:100%;
+}
+
+
+.otab h4{
+padding:20px;
+display:inline;
+color:black;
+}

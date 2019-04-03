@@ -1,0 +1,72 @@
+html{
+background-color:#f9f9f9;
+}
+
+.header-nav{
+padding:8px;
+}
+.header-nav{
+    color:white;
+    min-height:70px;
+    width:100%;
+    box-shadow:0 0 8px #999;
+    transition: all 0.4s;
+    background: -webkit-linear-gradient(left, #21d4fd, #ff2140);
+}
+
+.header-nav img{
+margin-left:20px;
+margin-right:20px;
+border-radius:105px;
+}
+
+.content-wrapper{
+padding-top:0;
+background-color:#f9f9f9;
+}
+.main{
+background-image:url('../images/back.jpg');
+color:#585758;
+text-align: left;
+padding:50px;
+background-size:100%;
+padding-bottom:250px;
+}
+
+.login{
+padding:50px;
+background-image:url('../images/login.png');
+background-size:100%;
+color:#fff;
+}
+.form1 input{
+    padding-left:20px;
+margin-top:20px;
+}
+
+/*.sub-header{
+margin-top:20px;
+}
+.sub-header-tri{
+margin-top:20px;
+border-top: 58px solid #ff2140;
+}*/
+
+.plans h2{
+margin-top:20px;
+width:100%;
+text-align: center;
+}
+
+.row-plans .card{
+margin-bottom:20px;
+}
+
+.row-footer{
+background-color:black;
+}
+
+.footer h1,p,h4{
+color:white;
+text-align: center;
+}
