@@ -8,7 +8,6 @@ width:100%;
 }
 .col1{
 position:relative;
-float:left;
 margin:0 auto;
 margin-left:20px;
 width:65%;
@@ -20,7 +19,6 @@ border-radius:2px;
 
 .col2{
 position:relative;
-float:left;
 margin:0 auto;
 margin-left:20px;
 width:30%;
@@ -30,7 +28,6 @@ border-radius:2px;
 }
 
 .col3{
-float:left;
 margin:0 auto;
 margin-left:20px;
 margin-top:20px;
@@ -41,7 +38,6 @@ border-radius:2px;
 }
 
 .col4{
-float:left;
 margin:0 auto;
 margin-left:20px;
 margin-top:20px;
@@ -147,11 +143,10 @@ border-radius: 4px 0px 0px 4px;
 
 .ban-con{
 width: 50%;
-float:right;
-    display: inline-block;
-    text-align: center;
-    font-size: 13px;
-    color: #b2b3b5;
+display: inline-block;
+text-align: center;
+font-size: 13px;
+color: #b2b3b5;
 font-weight: 300;
 overflow:hidden;
 }
@@ -168,7 +163,6 @@ font-size:20px;
 .graph-head{
 color:white;
 width:100%;
-position:absolute;
 top:0;
 left:0;
 background:#50c6ee;
@@ -198,10 +192,10 @@ color:white;
 margin-top:0;
 }
 .header .account{
-position:absolute;
+
 }
 .header h2{
-position:absolute;
+
 top:0;
 right:50px;
 }

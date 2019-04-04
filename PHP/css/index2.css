@@ -63,7 +63,11 @@ margin-bottom:20px;
 }
 
 .row-footer{
+margin-left:0;
+margin-right:0;
 background-color:black;
+padding-left: 15px;
+padding-right: 15px;
 }
 
 .footer h1,p,h4{
